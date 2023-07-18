@@ -1,0 +1,6 @@
+TELA_LARGURA = 1280
+TELA_ALTURA = 720
+
+# Cores
+BRANCO = (255, 255, 255)
+PRETO = (0, 0, 0)
